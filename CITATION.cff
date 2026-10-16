@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Code for ventilator liberation after a recorded motor-response transition in acute brain injury"
+type: software
+authors:
+  - family-names: Li
+    given-names: Wengang
+  - family-names: Tan
+    given-names: Zhiling
+  - family-names: Ye
+    given-names: Youzhong
+  - family-names: Lyu
+    given-names: Jun
+  - family-names: Wang
+    given-names: Xiangyu
+repository-code: "https://github.com/lwg550-maker/HMIS"
+license: MIT
+date-released: 2026-10-16
+version: "1.0.0-submission"

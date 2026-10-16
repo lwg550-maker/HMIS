@@ -1,0 +1,12 @@
+Operating system: Windows 11 10.0.26200
+Python: 3.12.14
+NumPy: 2.5.1
+pandas: 3.0.3
+SciPy: 1.18.0
+statsmodels: 0.14.6
+Matplotlib: 3.11.1
+python-docx: 1.2.0
+PostgreSQL host/port used locally: 127.0.0.1:5442
+Primary multiple-imputation seed: 20261012
+Revision analysis seed: 20261015
+
